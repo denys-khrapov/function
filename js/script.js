@@ -23,7 +23,7 @@ function calculate(a, b, c, operation) {
 	}
 }
 
-calculate(10, 5, 2, 'add');
-calculate(10, 5, 2, 'subtract');
-calculate(10, 5, 2, 'multiply');
-calculate(10, 5, 2, 'divide');
+calculate(15, 6, 2, 'add');
+calculate(15, 6, 2, 'subtract');
+calculate(15, 6, 2, 'multiply');
+calculate(15, 6, 2, 'divide');
